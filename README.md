@@ -45,4 +45,4 @@ Homepage: https://video-converter-studio.softax.xyz
 
 ## ⚠️ Disclaimer
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.                    
+> For personal, lawful use only. Trademarks are the property of their owners.                     
